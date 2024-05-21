@@ -7,6 +7,9 @@
 - 安装 Python 包并将其添加到 `requirements.txt`
 - 卸载 Python 包并从 `requirements.txt` 中移除
 
+## 下载
+[github](https://github.com/litongjava/mpip/releases/tag/)
+
 ## 安装
 
 首先，克隆此仓库：

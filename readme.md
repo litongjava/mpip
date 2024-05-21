@@ -6,6 +6,9 @@
 - Install Python packages and add them to `requirements.txt`
 - Uninstall Python packages and remove them from `requirements.txt`
 
+## download
+[github](https://github.com/litongjava/mpip/releases/tag/)
+
 ## Installation
 
 First, clone this repository:
